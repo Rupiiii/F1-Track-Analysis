@@ -12,8 +12,6 @@ This project focuses on the **2D visualization and analysis of Formula 1 race tr
 4. [Installation and Setup](#installation-and-setup)
 5. [Usage](#usage)
 6. [Future Improvements](#future-improvements)
-7. [Contributing](#contributing)
-8. [License](#license)
 
 ## Project Overview
 
